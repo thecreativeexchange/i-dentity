@@ -1,14 +1,11 @@
 # i-dentity
-A digital party game based on traditional play and games which has been used as a tool to explore movement in games and an ice breaker for creative play practitioners, youth workers and in workshops
+A digital party game based on traditional play and games which has been used as a tool to explore movement based games and an ice breaker for creative play practitioners, youth workers and academic workshops.
 
 The game was originally conceived at the Game Jame at CHI '13.
 
-The following is the CHI 2014 paper and study led by Exertion Games Lab, RMIT about i-dentity.
-
-It describes how i-dentity can be used as a tool to inform games designers on how to design for movement based games.
+The following is the CHI 2014 paper and study led by Exertion Games Lab, RMIT about i-dentity in its role as a tool:
 
 http://dl.acm.org/citation.cfm?id=2557257&CFID=803824294
-
 
 ## Licenses
 
@@ -27,12 +24,11 @@ See readmes in the folders and/or source code for the author’s license.
 Please refer to the author's original sites for unedited and clean versions.
 
 1. JSON Dave Gamble
-2. OpenCV itseez - http://opencv.org/about.html
-3. OpenAL Creative Technology et al. - OpenAl headers not included in source tree
-4. TinyXML Lee Thomason
-5. ZLib Jean-loup Gailly and Mark Adler
-6. Madgwick - this is not included in the source tree and the game can be run without it.
+2. TinyXML Lee Thomason
+3. ZLib Jean-loup Gailly and Mark Adler
+4. Madgwick - this is not included in the source tree and the game is currently setup on a define to run without it.
 However, Madgwick allows better construction of the quaternion so the controllers can take into account the affect of gravity.
+Download http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms/ from here, add the define and experiment.
 
 Special thanks to Thomas Perl and his PS Move API who without this game would not be possible.
-Read about his API and its various appliactions at https://thp.io/2010/psmove/
+Read about his API and its various applications at https://thp.io/2010/psmove/
