@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////////////////
+// ShConnectivity
+
+// Includes
+#include "ShConnectivity.h"
+#include "RsUtil.h"
+
+//static
+BtBool ShConnectivity::m_isConnectivity = BtFalse;
+
+////////////////////////////////////////////////////////////////////////////////
+// GetNumItems
+
+//static
+BtBool ShConnectivity::GetConnectivity()
+{
+    return m_isConnectivity;
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// SetConnectivity
+
+//static
+void ShConnectivity::SetConnectivity( BtBool isConnection )
+{
+	m_isConnectivity = isConnection;
+}

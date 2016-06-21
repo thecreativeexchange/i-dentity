@@ -1,0 +1,30 @@
+
+RsShader
+RsShaderZ
+RsShaderZTD
+RsShaderZLTB
+RsShaderZT
+RsShaderZL
+RsShaderZLT
+RsShaderZTG
+RsShaderZLTG
+RsShaderZTM
+RsShaderZLTSN
+
+//
+Z Test
+E Environment
+L Lit
+T Textured
+G Transparency
+M Lightmap
+B Blendshape
+S Skinned
+N Normal mapped
+D Double sided
+
+0		position (fp4)
+1		normal (fp3) (remaining fp material)
+2		colour (8888)
+3		others
+
