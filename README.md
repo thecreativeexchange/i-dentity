@@ -26,7 +26,8 @@ Please refer to the author's original sites for unedited and clean versions.
 1. JSON Dave Gamble
 2. TinyXML Lee Thomason
 3. ZLib Jean-loup Gailly and Mark Adler
-4. Madgwick - this is not included in the source tree and the game is currently setup on a define to run without it.
+4. GameFramework - An open source game framework by Gavin Wood. Used for low level rendering in OpenGLES.
+5. Madgwick - this is not included in the source tree and the game is currently setup on a define to run without it.
 However, Madgwick allows better construction of the quaternion so the controllers can take into account the affect of gravity.
 Download http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms, add the hash define and experiment.
 
