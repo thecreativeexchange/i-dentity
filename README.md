@@ -28,7 +28,7 @@ Please refer to the author's original sites for unedited and clean versions.
 3. ZLib Jean-loup Gailly and Mark Adler
 4. Madgwick - this is not included in the source tree and the game is currently setup on a define to run without it.
 However, Madgwick allows better construction of the quaternion so the controllers can take into account the affect of gravity.
-Download http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms/ from here, add the define and experiment.
+Download http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms, add the hash define and experiment.
 
 Special thanks to Thomas Perl and his PS Move API who without this game would not be possible.
 Read about his API and its various applications at https://thp.io/2010/psmove/
