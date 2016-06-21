@@ -1,7 +1,7 @@
 # i-dentity
 A digital party game based on traditional play and games which has been used as a tool to explore movement based games and an ice breaker for creative play practitioners, youth workers and academic workshops.
 
-The game was originally conceived at the Game Jame at CHI '13.
+The game was originally conceived at the Game Jam at CHI '13.
 
 The following is the CHI 2014 paper and study led by Exertion Games Lab, RMIT about i-dentity in its role as a tool:
 
